@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    width: 100vh;
+}
+
+h1 {
+    margin-top: 100px;
+}
+
+.result {
+    font-weight: bold;
+}
+
+.points {
+    width: 100%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    flex-flow: ;
+    margin-bottom: 10px;
+}
+
+.box {
+    border: 2px solid black;
+    padding: 5px;
+    margin: 5px;
+}
